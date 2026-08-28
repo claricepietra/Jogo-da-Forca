@@ -22,8 +22,6 @@ cd jogo-da-forca
 node index.js
 ```
 
-> O nome do arquivo de entrada (`index.js`) deve ser ajustado conforme a nomenclatura utilizada no projeto.
-
 ## Regras do Jogo
 
 1. Uma palavra secreta é sorteada aleatoriamente no início da execução.
